@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:app-ui-components">
+   </FileRef>
+   <FileRef
+      location = "group:app-features">
+   </FileRef>
+   <FileRef
+      location = "group:app-dependencies">
+   </FileRef>
+   <FileRef
+      location = "group:app/app.xcodeproj">
+   </FileRef>
+</Workspace>
